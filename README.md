@@ -1,2 +1,3 @@
-# my-portfolio
-AWS React Portfolio
+# Ramil's portfolio
+
+This is a portfolio using AWS and ReactJS.
